@@ -1,0 +1,16 @@
+{
+  "name": "nodeserver_less_example",
+  "version": "1.0.0",
+  "description": "Node example with server less ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "sls offline start --port 8484"
+  },
+  "author": "Tushar",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-offline": "^6.8.0"
+  }
+}
